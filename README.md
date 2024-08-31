@@ -9,7 +9,7 @@
 
 ## Contents
 
-+ [LLM-based Financial Time Series Forecasting Models](#LLM-based Financial Time Series Forecasting Models)
++ [LLM-based Financial Time Series Forecasting Models](#LLM-based-Financial-Time-Series-Forecasting-Models)
 + [Graph Neural Network-based Models](#Graph-Neural-Network-based-Models)
 + [Transformer-based Models](#Transformer-based-Models)
 + [Classical Time Series Models](#Classical-Time-Series-Models)
