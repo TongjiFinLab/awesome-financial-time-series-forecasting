@@ -26,13 +26,20 @@ ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](http
 
 ## Graph Neural Network-based Models
 
+**MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction**
 
+*Hao Qian, Hongting Zhou, Qian Zhao, Hao Chen, Hongxiang Yao, Jingwei Wang, Ziqi Liu, Fei Yu, Zhiqiang Zhang, Jun Zhou*
 
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29381)]
 
 
 ## Transformer-based Models
 
+**MASTER: Market-Guided Stock Transformer for Stock Price Forecasting**
 
+*Tong Li, Zhaoyang Liu, Yanyan Shen, Xue Wang, Haokun Chen, Sen Huang*
+
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27767)] | [[Codes](https://github.com/SJTU-DMTai/MASTER)]
 
 
 
