@@ -17,8 +17,10 @@
 
 ## LLM-based Financial Time Series Forecasting Models
 
-**Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning**
-*Yuxuan Bian, Xuan Ju, Jiangtong Li, Zhijian Xu, Dawei Cheng, Qiang Xu*
+**Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning** 
+
+*Yuxuan Bian, Xuan Ju, Jiangtong Li, Zhijian Xu, Dawei Cheng, Qiang Xu* 
+
 ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](https://github.com/yxbian23/aLLM4TS)]
 
 
@@ -37,7 +39,9 @@ ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](http
 ## Classical Time Series Models
 
 **Learning connections in financial time series**
+
 *Ganeshapillai, Gartheeban, John Guttag, and Andrew Lo.*
+
 ICML 2013. [[Paper](http://proceedings.mlr.press/v28/ganeshapillai13.pdf)] | [[Codes]()]
 
 
