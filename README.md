@@ -24,6 +24,40 @@
 ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](https://github.com/yxbian23/aLLM4TS)]
 
 
+**LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction**
+
+*Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji*
+
+ACL 2024. [[Paper](https://aclanthology.org/2024.findings-acl.185.pdf)]
+
+
+**MOMENT: A Family of Open Time-series Foundation Models**
+
+*Mononito Goswami, Konrad Szafer, Arjun Choudhry, Yifu Cai, Shuo Li, Artur Dubrawski*
+
+ICML 2024. [[Paper](https://arxiv.org/abs/2402.03885)] | [[Codes](https://github.com/moment-timeseries-foundation-model/moment)]
+
+
+**Timer: Transformers for Time Series Analysis at Scale**
+
+*Yong Liu, Haoran Zhang, Chenyu Li, Xiangdong Huang, Jianmin Wang, Mingsheng Long*
+
+ICML 2024. [[Paper](https://arxiv.org/abs/2402.02368)] | [[Codes](https://github.com/thuml/Large-Time-Series-Model)]
+
+**Unified Training of Universal Time Series Forecasting Transformers**
+
+*Gerald Woo, Chenghao Liu, Akshat Kumar, Caiming Xiong, Silvio Savarese, Doyen Sahoo*
+
+ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github.com/redoules/moirai)]
+
+**Are Language Models Actually Useful for Time Series Forecasting?**
+
+*Mingtian Tan, Mike A. Merrill, Vinayak Gupta, Tim Althoff, Thomas Hartvigsen*
+
+[[Paper](https://arxiv.org/abs/2406.16964)]
+
+
+
 ## Graph Neural Network-based Models
 
 **MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction**
@@ -31,6 +65,24 @@ ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](http
 *Hao Qian, Hongting Zhou, Qian Zhao, Hao Chen, Hongxiang Yao, Jingwei Wang, Ziqi Liu, Fei Yu, Zhiqiang Zhang, Jun Zhou*
 
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29381)]
+
+**ECHO-GL: Earnings Calls-Driven Heterogeneous Graph Learning for Stock Movement Prediction**
+
+*Mengpu Liu, Mengying Zhu, Xiuyuan Wang, Guofang Ma, Jianwei Yin, Xiaolin Zheng*
+
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29305)] | [[Codes](https://github.com/pupu0302/ECHOGL)]
+
+**TCGPN: Temporal-Correlation Graph Pre-trained Network for Stock Forecasting**
+
+*Wenbo Yan, Ying Tan*
+
+[[Paper](https://arxiv.org/abs/2407.18519)]
+
+**Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction**
+
+*Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
+
+AAAI 2024. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/finint/THGNN)]
 
 
 ## Transformer-based Models
@@ -41,6 +93,27 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29381)]
 
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27767)] | [[Codes](https://github.com/SJTU-DMTai/MASTER)]
 
+**CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph**
+
+*Hongjie Xia, Huijie Ao, Long Li, Yu Liu, Sen Liu, Guangnan Ye, Hongfeng Chai*
+
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770)] | [[Codes](https://github.com/Harryx2019/CI-STHPAN)]
+
+
+
+## Generative Methods based Models
+
+**DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation**
+
+*Yuan Gao, Haokun Chen, Xiang Wang, Zhicai Wang, Xue Wang, Jinyang Gao, Bolin Ding*
+
+[[Paper](https://arxiv.org/abs/2402.06656)]
+
+**FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns**
+
+*Yitong Duan, Lei Wang, Qizhong Zhang, Jian Li*
+
+AAAI'22. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369)] | [[Codes](https://github.com/harrishe1999/FactorVAE)]
 
 
 ## Classical Time Series Models
@@ -50,6 +123,8 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27767)] | [
 *Ganeshapillai, Gartheeban, John Guttag, and Andrew Lo.*
 
 ICML 2013. [[Paper](http://proceedings.mlr.press/v28/ganeshapillai13.pdf)] | [[Codes]()]
+
+
 
 
 
