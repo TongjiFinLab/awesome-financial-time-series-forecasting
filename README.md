@@ -84,6 +84,18 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29305)] | [
 
 AAAI 2024. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/finint/THGNN)]
 
+**Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction**
+
+*Heyuan Wang, Shun Li, Tengjiao Wang, Jiayi Zheng*
+
+IJCAI 2021. [[Paper](https://www.ijcai.org/proceedings/2021/508)] | [[Codes](https://github.com/lixiaojieff/HGTAN)]
+
+**REST: Relational Event-driven Stock Trend Forecasting**
+
+*Wentao Xu, Weiqing Liu, Chang Xu, Jiang Bian, Jian Yin, Tie-Yan Liu*
+
+WWW 2021. [[Paper](https://arxiv.org/abs/2102.07372)]
+
 
 ## Transformer-based Models
 
@@ -98,6 +110,12 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27767)] | [
 *Hongjie Xia, Huijie Ao, Long Li, Yu Liu, Sen Liu, Guangnan Ye, Hongfeng Chai*
 
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770)] | [[Codes](https://github.com/Harryx2019/CI-STHPAN)]
+
+**Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport**
+
+*Hengxu Lin, Dong Zhou, Weiqing Liu, Jiang Bian*
+
+KDD 2021. [[Paper](https://arxiv.org/abs/2106.12950)] | [[Codes](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA)]
 
 
 
@@ -125,7 +143,13 @@ AAAI'22. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369)] | [[C
 ICML 2013. [[Paper](http://proceedings.mlr.press/v28/ganeshapillai13.pdf)] | [[Codes]()]
 
 
+## Survey
 
+**Stock Market Prediction via Deep Learning Techniques: A Survey**
+
+*Jinan Zou, Qingying Zhao, Yang Jiao, Haiyao Cao, Yanxi Liu, Qingsen Yan, Ehsan Abbasnejad, Lingqiao Liu, Javen Qinfeng Shi*
+
+2023. [[Paper](https://arxiv.org/abs/2212.12717)]
 
 
 
