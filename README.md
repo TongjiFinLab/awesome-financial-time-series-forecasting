@@ -94,7 +94,13 @@ AAAI 2024. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github
 
 *Zetao Zheng, Jie Shao, Jia Zhu, Heng Tao Shen*
 
-ICDE 2023. [[Paper](https://ieeexplore.ieee.org/document/10184655)]
+ICDE 2023. [[Paper](https://ieeexplore.ieee.org/document/10184655)] | [[Codes](https://github.com/zhengzetao/RTGCN)]
+
+**Temporal-Relational hypergraph tri-Attention networks for stock trend prediction**
+
+*Chaoran Cui, Xiaojie Li, Chunyun Zhang, Weili Guan, Meng Wang*
+
+Pattern Recognition 2023. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004570)] | [[Codes](https://github.com/lixiaojieff/HGTAN)]
 
 **Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction**
 
