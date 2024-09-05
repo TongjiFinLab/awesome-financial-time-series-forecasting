@@ -57,7 +57,7 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 *Mingtian Tan, Mike A. Merrill, Vinayak Gupta, Tim Althoff, Thomas Hartvigsen*
 
-2024. [[Paper](https://arxiv.org/abs/2406.16964)]
+$2024$. [[Paper](https://arxiv.org/abs/2406.16964)]
 
 
 ## Graph Neural Network-based Models
@@ -151,13 +151,13 @@ ICML 2013. [[Paper](http://proceedings.mlr.press/v28/ganeshapillai13.pdf)] | [[C
 
 *Microsoft Research Asia*
 
-2024. [[Codes](https://github.com/microsoft/RD-Agent)]
+$2024$. [[Codes](https://github.com/microsoft/RD-Agent)]
 
 **Qlib: An AI-oriented Quantitative Investment Platform**
 
 *Microsoft Research Asia*
 
-2021. [[Paper](https://arxiv.org/abs/2009.11189)] | [[Codes](https://github.com/microsoft/qlib)]
+$2021$. [[Paper](https://arxiv.org/abs/2009.11189)] | [[Codes](https://github.com/microsoft/qlib)]
 
 
 ## Survey
@@ -166,7 +166,7 @@ ICML 2013. [[Paper](http://proceedings.mlr.press/v28/ganeshapillai13.pdf)] | [[C
 
 *Jinan Zou, Qingying Zhao, Yang Jiao, Haiyao Cao, Yanxi Liu, Qingsen Yan, Ehsan Abbasnejad, Lingqiao Liu, Javen Qinfeng Shi*
 
-2023. [[Paper](https://arxiv.org/abs/2212.12717)]
+$2023$. [[Paper](https://arxiv.org/abs/2212.12717)]
 
 
 
