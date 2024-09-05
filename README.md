@@ -3,7 +3,7 @@
 # Awesome Financial Time Series Forecasting Papers and Codes
 
 
-+ **Update**: This repository is actively updated.  `2024/9/2`
++ **Update**: This repository is actively updated.  `2024/9/5`
 + **Collection**: We've compiled a comprehensive list of awesome financial time series forecasting papers and codes.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
@@ -12,7 +12,10 @@
 + [LLM-based Financial Time Series Forecasting Models](#LLM-based-Financial-Time-Series-Forecasting-Models)
 + [Graph Neural Network-based Models](#Graph-Neural-Network-based-Models)
 + [Transformer-based Models](#Transformer-based-Models)
++ [Generative Methods based Models](#Generative-Methods-based-Models)
 + [Classical Time Series Models](#Classical-Time-Series-Models)
++ [Quantitative Open Sourced Framework](#Quantitative-Open-Sourced-Framework)
++ [Survey](#Survey)
 
 
 ## LLM-based Financial Time Series Forecasting Models
@@ -54,8 +57,7 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 *Mingtian Tan, Mike A. Merrill, Vinayak Gupta, Tim Althoff, Thomas Hartvigsen*
 
-[[Paper](https://arxiv.org/abs/2406.16964)]
-
+2024. [[Paper](https://arxiv.org/abs/2406.16964)]
 
 
 ## Graph Neural Network-based Models
@@ -141,6 +143,21 @@ AAAI'22. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369)] | [[C
 *Ganeshapillai, Gartheeban, John Guttag, and Andrew Lo.*
 
 ICML 2013. [[Paper](http://proceedings.mlr.press/v28/ganeshapillai13.pdf)] | [[Codes]()]
+
+
+## Quantitative Open Sourced Framework
+
+**RD-Agent: Autonomous evolving agents for industrial data-drive R&D**
+
+*Microsoft Research Asia*
+
+2024. [[Codes](https://github.com/microsoft/RD-Agent)]
+
+**Qlib: An AI-oriented Quantitative Investment Platform**
+
+*Microsoft Research Asia*
+
+2021. [[Paper](https://arxiv.org/abs/2009.11189)] | [[Codes](https://github.com/microsoft/qlib)]
 
 
 ## Survey
