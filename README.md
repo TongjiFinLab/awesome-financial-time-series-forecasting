@@ -3,6 +3,7 @@
 # Awesome Financial Time Series Forecasting Papers and Codes
 
 
+
 + **Update**: This repository is actively updated.  `2024/9/5`
 + **Collection**: We've compiled a comprehensive list of awesome financial time series forecasting papers and codes.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
@@ -69,6 +70,12 @@ ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728v1)] | [[Codes](https://gith
 
 ## Graph Neural Network-based Models
 
+**Automatic De-Biased Temporal-Relational Modeling for Stock Investment Recommendation**
+
+*Weijun Chen, Shun Li, Xipu Yu, Heyuan Wang, Wei Chen, Tengjiao Wang*
+
+IJCAI 2024. [[Paper](https://www.ijcai.org/proceedings/2024/221)]
+
 **MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction**
 
 *Hao Qian, Hongting Zhou, Qian Zhao, Hao Chen, Hongxiang Yao, Jingwei Wang, Ziqi Liu, Fei Yu, Zhiqiang Zhang, Jun Zhou*
@@ -91,7 +98,19 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29305)] | [
 
 *Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
 
-AAAI 2024. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/finint/THGNN)]
+CIKM 2022. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/finint/THGNN)]
+
+**Relational Temporal Graph Convolutional Networks for Ranking-Based Stock Prediction**
+
+*Zetao Zheng, Jie Shao, Jia Zhu, Heng Tao Shen*
+
+ICDE 2023. [[Paper](https://ieeexplore.ieee.org/document/10184655)] | [[Codes](https://github.com/zhengzetao/RTGCN)]
+
+**Temporal-Relational hypergraph tri-Attention networks for stock trend prediction**
+
+*Chaoran Cui, Xiaojie Li, Chunyun Zhang, Weili Guan, Meng Wang*
+
+Pattern Recognition 2023. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004570)] | [[Codes](https://github.com/lixiaojieff/HGTAN)]
 
 **Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction**
 
