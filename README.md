@@ -9,13 +9,33 @@
 
 ## Contents
 
-+ [LLM-based Financial Time Series Forecasting Models](#LLM-based-Financial-Time-Series-Forecasting-Models)
-+ [Graph Neural Network-based Models](#Graph-Neural-Network-based-Models)
-+ [Transformer-based Models](#Transformer-based-Models)
-+ [Classical Time Series Models](#Classical-Time-Series-Models)
+- [Awesome Financial Time Series Forecasting Papers and Codes](#awesome-financial-time-series-forecasting-papers-and-codes)
+  - [Contents](#contents)
+  - [LLM-based Financial Time Series Forecasting Models](#llm-based-financial-time-series-forecasting-models)
+  - [LLM-based Financial Models](#llm-based-financial-models)
+  - [Graph Neural Network-based Models](#graph-neural-network-based-models)
+  - [Reinforcement Learning-based Models](#reinforcement-learning-based-models)
+  - [Transformer-based Models](#transformer-based-models)
+  - [Generative Methods based Models](#generative-methods-based-models)
+  - [Classical Time Series Models](#classical-time-series-models)
+  - [Quantitative Open Sourced Framework](#quantitative-open-sourced-framework)
+  - [Survey](#survey)
+  - [All Thanks to Our Contributors :](#all-thanks-to-our-contributors-)
 
 
 ## LLM-based Financial Time Series Forecasting Models
+
+**TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING** 
+
+*Defu Cao, Furong Jia, Sercan O. Arık, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu* 
+
+ICLR 2024. [[Paper](https://openreview.net/forum?id=YH5w12OUuU)] | [[Codes](https://github.com/DC-research/TEMPO)]
+
+**GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting** 
+
+*Furong Jia, Kevin Wang, Yixiang Zheng, Defu Cao, Yan Liu* 
+
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30383)]
 
 **Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning** 
 
@@ -57,7 +77,18 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 *Mingtian Tan, Mike A. Merrill, Vinayak Gupta, Tim Althoff, Thomas Hartvigsen*
 
-[[Paper](https://arxiv.org/abs/2406.16964)]
+Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.16964)]
+
+**TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS**
+
+Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.16964)]
+
+*Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen*
+
+ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728v1)] | [[Codes](https://github.com/KimMeen/Time-LLM)]
+
+
+## LLM-based Financial Models
 
 **Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**
 
@@ -65,26 +96,38 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 WWW 2024. [[Paper](https://arxiv.org/abs/2402.03659)] | [[Codes](https://github.com/koa-fin/sep)]
 
-**TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING** 
-
-*Defu Cao, Furong Jia, Sercan O. Arık, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu* 
-
-ICLR 2024. [[Paper](https://openreview.net/forum?id=YH5w12OUuU)] | [[Codes](https://github.com/DC-research/TEMPO)]
-
-**GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting** 
-
-*Furong Jia, Kevin Wang, Yixiang Zheng, Defu Cao, Yan Liu* 
-
-AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30383)]
-
 **S2IP-LLM: Semantic Space Informed Prompt Learning with LLM forTime Series Forecasting** 
 
 *Zijie Pan, Yushan Jiang, Sahil Garg, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song* 
 
 ICML 2024. [[Paper](https://arxiv.org/abs/2403.05798)] | [[Codes](https://github.com/panzijie825/S2IP-LLM)]
 
+**CFGPT: Chinese Financial Assistant with Large Language Model**
+
+*Jiangtong Li, Yuxuan Bian, Guoxuan Wang, Yang Lei, Dawei Cheng, Zhijun Ding, Changjun Jiang*
+
+$2024$. [[Paper](https://arxiv.org/pdf/2309.10654)] | [[Codes](https://github.com/TongjiFinLab/CFBenchmark)]
+
+**RA-CFGPT: Chinese financial assistant with retrieval-augmented large language model**
+
+*Jiangtong Li, Yang Lei, Yuxuan Bian, Dawei Cheng, Zhijun Ding, Changjun Jiang*
+
+FCS 2024. [[Paper](https://link.springer.com/article/10.1007/s11704-024-31018-5)]
+
+**CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market**
+
+*Jinyuan Wang, Zhong Wang, Zeyang Zhu, Jinhao Xie, Yong Yu, Yongjian Fei, Yue Huang, Dawei Cheng, Hai Zhao*
+
+DEXA 2024. [[Paper](https://arxiv.org/abs/2309.04389)] | [[Codes](https://github.com/noewangjy/csprd_dataset)]
+
 
 ## Graph Neural Network-based Models
+
+**Automatic De-Biased Temporal-Relational Modeling for Stock Investment Recommendation**
+
+*Weijun Chen, Shun Li, Xipu Yu, Heyuan Wang, Wei Chen, Tengjiao Wang*
+
+IJCAI 2024. [[Paper](https://www.ijcai.org/proceedings/2024/221)]
 
 **MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction**
 
@@ -108,7 +151,31 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29305)] | [
 
 *Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
 
-AAAI 2024. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/finint/THGNN)]
+CIKM 2022. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/finint/THGNN)]
+
+**Relational Temporal Graph Convolutional Networks for Ranking-Based Stock Prediction**
+
+*Zetao Zheng, Jie Shao, Jia Zhu, Heng Tao Shen*
+
+ICDE 2023. [[Paper](https://ieeexplore.ieee.org/document/10184655)] | [[Codes](https://github.com/zhengzetao/RTGCN)]
+
+**Temporal-Relational hypergraph tri-Attention networks for stock trend prediction**
+
+*Chaoran Cui, Xiaojie Li, Chunyun Zhang, Weili Guan, Meng Wang*
+
+Pattern Recognition 2023. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004570)] | [[Codes](https://github.com/lixiaojieff/HGTAN)]
+
+**Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction**
+
+*Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
+
+CIKM 2022. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/TongjiFinLab/THGNN)]
+
+**Financial time series forecasting with multi-modality graph neural network**
+
+*Dawei Cheng, Fangzhou Yang, Sheng Xiang, Jin Liu*
+
+Pattern Recognition 2022. [[Paper](https://www.sciencedirect.com/science/article/pii/S003132032100399X)] | [[Codes](https://github.com/finint/MAGNN)]
 
 **Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction**
 
@@ -121,6 +188,39 @@ IJCAI 2021. [[Paper](https://www.ijcai.org/proceedings/2021/508)] | [[Codes](htt
 *Wentao Xu, Weiqing Liu, Chang Xu, Jiang Bian, Jian Yin, Tie-Yan Liu*
 
 WWW 2021. [[Paper](https://arxiv.org/abs/2102.07372)]
+
+**Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments**
+
+*Dawei Cheng, Fangzhou Yang, Xiaoyang Wang, Ying Zhang, Liqing Zhang*
+
+SIGIR 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401427)]
+
+
+## Reinforcement Learning-based Models
+
+**Asymmetric Graph-Based Deep Reinforcement Learning for Portfolio Optimization**
+
+*Haoyu Sun, Xin Liu, Yuxuan Bian, Peng Zhu, Dawei Cheng, Yuqi Liang*
+
+ECML PKDD 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_11)]
+
+**NGDRL: A Dynamic News Graph-Based Deep Reinforcement Learning Framework for Portfolio Optimization**
+
+*Yuxuan Bian, Haoyu Sun, Yang Lei, Peng Zhu, Dawei Cheng*
+
+DASFAA 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_29)]
+
+**Efficient Continuous Space Policy Optimization for High-frequency Trading**
+
+*Li Han, Nan Ding, Guoxuan Wang, Dawei Cheng, Yuqi Liang*
+
+KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599813)]
+
+**Optimal Action Space Search: An Effective Deep Reinforcement Learning Method for Algorithmic Trading**
+
+*Zhongjie Duan, Cen Chen, Dawei Cheng, Yuqi Liang, Weining Qian*
+
+CIKM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557412)] | [[Codes](https://github.com/ECNU-CILAB/OASS)]
 
 
 ## Transformer-based Models
@@ -137,12 +237,23 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27767)] | [
 
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770)] | [[Codes](https://github.com/Harryx2019/CI-STHPAN)]
 
+**Predicting stock market trends with self-supervised learning**
+
+*Zelin Ying, Dawei Cheng, Cen Chen, Xiang Li, Peng Zhu, Yifeng Luo, Yuqi Liang*
+
+Neurocomputing 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223011566)]
+
+**Multi-scale Time Based Stock Appreciation Ranking Prediction via Price Co-movement Discrimination**
+
+*Ruyao Xu, Dawei Cheng, Cen Chen, Siqiang Luo, Yifeng Luo, Weining Qian*
+
+DASFAA 2022. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_39)] | [[Codes](https://github.com/ECNU-CILAB/MPS)]
+
 **Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport**
 
 *Hengxu Lin, Dong Zhou, Weiqing Liu, Jiang Bian*
 
 KDD 2021. [[Paper](https://arxiv.org/abs/2106.12950)] | [[Codes](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA)]
-
 
 
 ## Generative Methods based Models
@@ -174,13 +285,28 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=CdjnzWsQax)]
 ICML 2013. [[Paper](http://proceedings.mlr.press/v28/ganeshapillai13.pdf)] | [[Codes]()]
 
 
+## Quantitative Open Sourced Framework
+
+**RD-Agent: Autonomous evolving agents for industrial data-drive R&D**
+
+*Microsoft Research Asia*
+
+$2024$. [[Codes](https://github.com/microsoft/RD-Agent)]
+
+**Qlib: An AI-oriented Quantitative Investment Platform**
+
+*Microsoft Research Asia*
+
+$2021$. [[Paper](https://arxiv.org/abs/2009.11189)] | [[Codes](https://github.com/microsoft/qlib)]
+
+
 ## Survey
 
 **Stock Market Prediction via Deep Learning Techniques: A Survey**
 
 *Jinan Zou, Qingying Zhao, Yang Jiao, Haiyao Cao, Yanxi Liu, Qingsen Yan, Ehsan Abbasnejad, Lingqiao Liu, Javen Qinfeng Shi*
 
-2023. [[Paper](https://arxiv.org/abs/2212.12717)]
+$2023$. [[Paper](https://arxiv.org/abs/2212.12717)]
 
 
 
