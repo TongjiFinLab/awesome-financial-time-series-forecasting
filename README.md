@@ -10,16 +10,39 @@
 
 ## Contents
 
-+ [LLM-based Financial Time Series Forecasting Models](#LLM-based-Financial-Time-Series-Forecasting-Models)
-+ [Graph Neural Network-based Models](#Graph-Neural-Network-based-Models)
-+ [Transformer-based Models](#Transformer-based-Models)
-+ [Generative Methods based Models](#Generative-Methods-based-Models)
-+ [Classical Time Series Models](#Classical-Time-Series-Models)
-+ [Quantitative Open Sourced Framework](#Quantitative-Open-Sourced-Framework)
-+ [Survey](#Survey)
+- [Awesome Financial Time Series Forecasting Papers and Codes](#awesome-financial-time-series-forecasting-papers-and-codes)
+  - [Contents](#contents)
+  - [LLM-based Financial Time Series Forecasting Models](#llm-based-financial-time-series-forecasting-models)
+  - [Graph Neural Network-based Models](#graph-neural-network-based-models)
+  - [Reinforcement Learning-based Models](#reinforcement-learning-based-models)
+  - [Transformer-based Models](#transformer-based-models)
+  - [Generative Methods based Models](#generative-methods-based-models)
+  - [Classical Time Series Models](#classical-time-series-models)
+  - [Quantitative Open Sourced Framework](#quantitative-open-sourced-framework)
+  - [Survey](#survey)
+  - [All Thanks to Our Contributors :](#all-thanks-to-our-contributors-)
 
 
 ## LLM-based Financial Time Series Forecasting Models
+
+**CFGPT: Chinese Financial Assistant with Large Language Model**
+
+*Jiangtong Li, Yuxuan Bian, Guoxuan Wang, Yang Lei, Dawei Cheng, Zhijun Ding, Changjun Jiang*
+
+$2024$. [[Paper](https://arxiv.org/pdf/2309.10654)] | [[Codes](https://github.com/TongjiFinLab/CFBenchmark)]
+
+
+**RA-CFGPT: Chinese financial assistant with retrieval-augmented large language model**
+
+*Jiangtong Li, Yang Lei, Yuxuan Bian, Dawei Cheng, Zhijun Ding, Changjun Jiang*
+
+FCS 2024. [[Paper](https://link.springer.com/article/10.1007/s11704-024-31018-5)]
+
+**CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market**
+
+*Jinyuan Wang, Zhong Wang, Zeyang Zhu, Jinhao Xie, Yong Yu, Yongjian Fei, Yue Huang, Dawei Cheng, Hai Zhao*
+
+DEXA 2024. [[Paper](https://arxiv.org/abs/2309.04389)] | [[Codes](https://github.com/noewangjy/csprd_dataset)]
 
 **Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning** 
 
@@ -125,6 +148,20 @@ IJCAI 2021. [[Paper](https://www.ijcai.org/proceedings/2021/508)] | [[Codes](htt
 WWW 2021. [[Paper](https://arxiv.org/abs/2102.07372)]
 
 
+## Reinforcement Learning-based Models
+
+**Asymmetric Graph-Based Deep Reinforcement Learning for Portfolio Optimization**
+
+*Haoyu Sun, Xin Liu, Yuxuan Bian, Peng Zhu, Dawei Cheng, Yuqi Liang*
+
+ECML PKDD 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_11)]
+
+**NGDRL: A Dynamic News Graph-Based Deep Reinforcement Learning Framework for Portfolio Optimization**
+
+*Yuxuan Bian, Haoyu Sun, Yang Lei, Peng Zhu, Dawei Cheng*
+
+DASFAA 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_29)]
+
 ## Transformer-based Models
 
 **MASTER: Market-Guided Stock Transformer for Stock Price Forecasting**
@@ -138,6 +175,12 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27767)] | [
 *Hongjie Xia, Huijie Ao, Long Li, Yu Liu, Sen Liu, Guangnan Ye, Hongfeng Chai*
 
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770)] | [[Codes](https://github.com/Harryx2019/CI-STHPAN)]
+
+**Predicting stock market trends with self-supervised learning**
+
+*Zelin Ying, Dawei Cheng, Cen Chen, Xiang Li, Peng Zhu, Yifeng Luo, Yuqi Liang*
+
+Neurocomputing 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223011566)]
 
 **Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport**
 
