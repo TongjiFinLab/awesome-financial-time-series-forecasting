@@ -13,6 +13,7 @@
 - [Awesome Financial Time Series Forecasting Papers and Codes](#awesome-financial-time-series-forecasting-papers-and-codes)
   - [Contents](#contents)
   - [LLM-based Financial Time Series Forecasting Models](#llm-based-financial-time-series-forecasting-models)
+  - [LLM-based Financial Models](#llm-based-financial-models)
   - [Graph Neural Network-based Models](#graph-neural-network-based-models)
   - [Reinforcement Learning-based Models](#reinforcement-learning-based-models)
   - [Transformer-based Models](#transformer-based-models)
@@ -24,25 +25,6 @@
 
 
 ## LLM-based Financial Time Series Forecasting Models
-
-**CFGPT: Chinese Financial Assistant with Large Language Model**
-
-*Jiangtong Li, Yuxuan Bian, Guoxuan Wang, Yang Lei, Dawei Cheng, Zhijun Ding, Changjun Jiang*
-
-$2024$. [[Paper](https://arxiv.org/pdf/2309.10654)] | [[Codes](https://github.com/TongjiFinLab/CFBenchmark)]
-
-
-**RA-CFGPT: Chinese financial assistant with retrieval-augmented large language model**
-
-*Jiangtong Li, Yang Lei, Yuxuan Bian, Dawei Cheng, Zhijun Ding, Changjun Jiang*
-
-FCS 2024. [[Paper](https://link.springer.com/article/10.1007/s11704-024-31018-5)]
-
-**CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market**
-
-*Jinyuan Wang, Zhong Wang, Zeyang Zhu, Jinhao Xie, Yong Yu, Yongjian Fei, Yue Huang, Dawei Cheng, Hai Zhao*
-
-DEXA 2024. [[Paper](https://arxiv.org/abs/2309.04389)] | [[Codes](https://github.com/noewangjy/csprd_dataset)]
 
 **Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning** 
 
@@ -90,6 +72,29 @@ Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.16964)]
 *Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen*
 
 ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728v1)] | [[Codes](https://github.com/KimMeen/Time-LLM)]
+
+
+## LLM-based Financial Models
+
+**CFGPT: Chinese Financial Assistant with Large Language Model**
+
+*Jiangtong Li, Yuxuan Bian, Guoxuan Wang, Yang Lei, Dawei Cheng, Zhijun Ding, Changjun Jiang*
+
+$2024$. [[Paper](https://arxiv.org/pdf/2309.10654)] | [[Codes](https://github.com/TongjiFinLab/CFBenchmark)]
+
+
+**RA-CFGPT: Chinese financial assistant with retrieval-augmented large language model**
+
+*Jiangtong Li, Yang Lei, Yuxuan Bian, Dawei Cheng, Zhijun Ding, Changjun Jiang*
+
+FCS 2024. [[Paper](https://link.springer.com/article/10.1007/s11704-024-31018-5)]
+
+**CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market**
+
+*Jinyuan Wang, Zhong Wang, Zeyang Zhu, Jinhao Xie, Yong Yu, Yongjian Fei, Yue Huang, Dawei Cheng, Hai Zhao*
+
+DEXA 2024. [[Paper](https://arxiv.org/abs/2309.04389)] | [[Codes](https://github.com/noewangjy/csprd_dataset)]
+
 
 ## Graph Neural Network-based Models
 
@@ -147,7 +152,6 @@ CIKM 2022. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github
 
 Pattern Recognition 2022. [[Paper](https://www.sciencedirect.com/science/article/pii/S003132032100399X)] | [[Codes](https://github.com/finint/MAGNN)]
 
-
 **Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction**
 
 *Heyuan Wang, Shun Li, Tengjiao Wang, Jiayi Zheng*
@@ -165,6 +169,8 @@ WWW 2021. [[Paper](https://arxiv.org/abs/2102.07372)]
 *Dawei Cheng, Fangzhou Yang, Xiaoyang Wang, Ying Zhang, Liqing Zhang*
 
 SIGIR 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401427)]
+
+
 ## Reinforcement Learning-based Models
 
 **Asymmetric Graph-Based Deep Reinforcement Learning for Portfolio Optimization**
@@ -190,6 +196,7 @@ KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599813)]
 *Zhongjie Duan, Cen Chen, Dawei Cheng, Yuqi Liang, Weining Qian*
 
 CIKM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557412)] | [[Codes](https://github.com/ECNU-CILAB/OASS)]
+
 
 ## Transformer-based Models
 
@@ -222,7 +229,6 @@ DASFAA 2022. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-
 *Hengxu Lin, Dong Zhou, Weiqing Liu, Jiang Bian*
 
 KDD 2021. [[Paper](https://arxiv.org/abs/2106.12950)] | [[Codes](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA)]
-
 
 
 ## Generative Methods based Models
