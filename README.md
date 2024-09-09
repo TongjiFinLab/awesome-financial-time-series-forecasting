@@ -23,20 +23,17 @@
 
 ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](https://github.com/yxbian23/aLLM4TS)]
 
-
 **LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction**
 
 *Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji*
 
 ACL 2024. [[Paper](https://aclanthology.org/2024.findings-acl.185.pdf)]
 
-
 **MOMENT: A Family of Open Time-series Foundation Models**
 
 *Mononito Goswami, Konrad Szafer, Arjun Choudhry, Yifu Cai, Shuo Li, Artur Dubrawski*
 
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.03885)] | [[Codes](https://github.com/moment-timeseries-foundation-model/moment)]
-
 
 **TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS**
 
@@ -50,13 +47,11 @@ ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728)] | [[Codes](https://github
 
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.02368)] | [[Codes](https://github.com/thuml/Large-Time-Series-Model)]
 
-
 **Unified Training of Universal Time Series Forecasting Transformers**
 
 *Gerald Woo, Chenghao Liu, Akshat Kumar, Caiming Xiong, Silvio Savarese, Doyen Sahoo*
 
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github.com/redoules/moirai)]
-
 
 **Are Language Models Actually Useful for Time Series Forecasting?**
 
@@ -64,20 +59,17 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 [[Paper](https://arxiv.org/abs/2406.16964)]
 
-
 **Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**
 
 *Kelvin J.L. Koa, Yunshan Ma,Ritchie Ng, Tat-Seng Chua*
 
 WWW 2024. [[Paper](https://arxiv.org/abs/2402.03659)] | [[Codes](https://github.com/koa-fin/sep)]
 
-
 **TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING** 
 
 *Defu Cao, Furong Jia, Sercan O. Arık, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu* 
 
 ICLR 2024. [[Paper](https://openreview.net/forum?id=YH5w12OUuU)] | [[Codes](https://github.com/DC-research/TEMPO)]
-
 
 **GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting** 
 
