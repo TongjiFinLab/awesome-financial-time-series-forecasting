@@ -3,8 +3,7 @@
 # Awesome Financial Time Series Forecasting Papers and Codes
 
 
-
-+ **Update**: This repository is actively updated.  `2024/9/5`
++ **Update**: This repository is actively updated.  `2024/9/9`
 + **Collection**: We've compiled a comprehensive list of awesome financial time series forecasting papers and codes.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
@@ -26,12 +25,23 @@
 
 ## LLM-based Financial Time Series Forecasting Models
 
+**TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING** 
+
+*Defu Cao, Furong Jia, Sercan O. Arık, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu* 
+
+ICLR 2024. [[Paper](https://openreview.net/forum?id=YH5w12OUuU)] | [[Codes](https://github.com/DC-research/TEMPO)]
+
+**GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting** 
+
+*Furong Jia, Kevin Wang, Yixiang Zheng, Defu Cao, Yan Liu* 
+
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30383)]
+
 **Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning** 
 
 *Yuxuan Bian, Xuan Ju, Jiangtong Li, Zhijian Xu, Dawei Cheng, Qiang Xu* 
 
 ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](https://github.com/yxbian23/aLLM4TS)]
-
 
 **LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction**
 
@@ -39,15 +49,19 @@ ICML 2024. [[Paper](https://openreview.net/forum?id=Rx9GMufByc)] | [[Codes](http
 
 ACL 2024. [[Paper](https://aclanthology.org/2024.findings-acl.185.pdf)]
 
-
 **MOMENT: A Family of Open Time-series Foundation Models**
 
 *Mononito Goswami, Konrad Szafer, Arjun Choudhry, Yifu Cai, Shuo Li, Artur Dubrawski*
 
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.03885)] | [[Codes](https://github.com/moment-timeseries-foundation-model/moment)]
 
+**TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS**
 
-**Timer: Transformers for Time Series Analysis at Scale**
+*Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, et.al.*
+
+ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728)] | [[Codes](https://github.com/KimMeen/Time-LLM)]
+
+**Timer: Generative Pre-trained Transformers Are Large Time Series Models.**
 
 *Yong Liu, Haoran Zhang, Chenyu Li, Xiangdong Huang, Jianmin Wang, Mingsheng Long*
 
@@ -76,12 +90,23 @@ ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728v1)] | [[Codes](https://gith
 
 ## LLM-based Financial Models
 
+**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**
+
+*Kelvin J.L. Koa, Yunshan Ma,Ritchie Ng, Tat-Seng Chua*
+
+WWW 2024. [[Paper](https://arxiv.org/abs/2402.03659)] | [[Codes](https://github.com/koa-fin/sep)]
+
+**S2IP-LLM: Semantic Space Informed Prompt Learning with LLM forTime Series Forecasting** 
+
+*Zijie Pan, Yushan Jiang, Sahil Garg, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song* 
+
+ICML 2024. [[Paper](https://arxiv.org/abs/2403.05798)] | [[Codes](https://github.com/panzijie825/S2IP-LLM)]
+
 **CFGPT: Chinese Financial Assistant with Large Language Model**
 
 *Jiangtong Li, Yuxuan Bian, Guoxuan Wang, Yang Lei, Dawei Cheng, Zhijun Ding, Changjun Jiang*
 
 $2024$. [[Paper](https://arxiv.org/pdf/2309.10654)] | [[Codes](https://github.com/TongjiFinLab/CFBenchmark)]
-
 
 **RA-CFGPT: Chinese financial assistant with retrieval-augmented large language model**
 
@@ -243,8 +268,13 @@ KDD 2021. [[Paper](https://arxiv.org/abs/2106.12950)] | [[Codes](https://github.
 
 *Yitong Duan, Lei Wang, Qizhong Zhang, Jian Li*
 
-AAAI'22. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369)] | [[Codes](https://github.com/harrishe1999/FactorVAE)]
+AAAI 2022. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369)] | [[Codes](https://github.com/harrishe1999/FactorVAE)]
 
+**GENERATIVE LEARNING FOR FINANCIAL TIME SERIES WITH IRREGULAR AND SCALE-INVARIANT PATTERNS**
+
+*Hongbin Huang, Minghua Chen, and Xiao Qiao*
+
+ICLR 2024. [[Paper](https://openreview.net/forum?id=CdjnzWsQax)]
 
 ## Classical Time Series Models
 
