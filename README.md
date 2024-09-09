@@ -38,6 +38,12 @@ ACL 2024. [[Paper](https://aclanthology.org/2024.findings-acl.185.pdf)]
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.03885)] | [[Codes](https://github.com/moment-timeseries-foundation-model/moment)]
 
 
+**TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS**
+
+*Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, et.al.*
+
+ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728)] | [[Codes](https://github.com/KimMeen/Time-LLM)]
+
 **Timer: Generative Pre-trained Transformers Are Large Time Series Models.**
 
 *Yong Liu, Haoran Zhang, Chenyu Li, Xiangdong Huang, Jianmin Wang, Mingsheng Long*
