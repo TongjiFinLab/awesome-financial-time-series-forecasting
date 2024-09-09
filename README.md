@@ -79,7 +79,7 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=YH5w12OUuU)] | [[Codes](http
 
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30383)]
 
-**$S^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM forTime Series Forecasting** 
+**S2IP-LLM: Semantic Space Informed Prompt Learning with LLM forTime Series Forecasting** 
 
 *Zijie Pan, Yushan Jiang, Sahil Garg, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song* 
 
