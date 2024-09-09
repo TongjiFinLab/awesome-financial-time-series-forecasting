@@ -56,6 +56,11 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 [[Paper](https://arxiv.org/abs/2406.16964)]
 
+**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**
+
+*Kelvin J.L. Koa, Yunshan Ma,Ritchie Ng, Tat-Seng Chua*
+
+WWW 2024. [[Paper](https://arxiv.org/abs/2402.03659)] | [[Codes](https://github.com/koa-fin/sep)]
 
 
 ## Graph Neural Network-based Models
