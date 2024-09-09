@@ -38,11 +38,12 @@ ACL 2024. [[Paper](https://aclanthology.org/2024.findings-acl.185.pdf)]
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.03885)] | [[Codes](https://github.com/moment-timeseries-foundation-model/moment)]
 
 
-**Timer: Transformers for Time Series Analysis at Scale**
+**Timer: Generative Pre-trained Transformers Are Large Time Series Models.**
 
 *Yong Liu, Haoran Zhang, Chenyu Li, Xiangdong Huang, Jianmin Wang, Mingsheng Long*
 
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.02368)] | [[Codes](https://github.com/thuml/Large-Time-Series-Model)]
+
 
 **Unified Training of Universal Time Series Forecasting Transformers**
 
@@ -50,11 +51,13 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02368)] | [[Codes](https://github
 
 ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github.com/redoules/moirai)]
 
+
 **Are Language Models Actually Useful for Time Series Forecasting?**
 
 *Mingtian Tan, Mike A. Merrill, Vinayak Gupta, Tim Althoff, Thomas Hartvigsen*
 
 [[Paper](https://arxiv.org/abs/2406.16964)]
+
 
 **Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**
 
@@ -62,17 +65,25 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 WWW 2024. [[Paper](https://arxiv.org/abs/2402.03659)] | [[Codes](https://github.com/koa-fin/sep)]
 
+
 **TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING** 
 
 *Defu Cao, Furong Jia, Sercan O. Arık, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu* 
 
 ICLR 2024. [[Paper](https://openreview.net/forum?id=YH5w12OUuU)] | [[Codes](https://github.com/DC-research/TEMPO)]
 
+
 **GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting** 
 
 *Furong Jia, Kevin Wang, Yixiang Zheng, Defu Cao, Yan Liu* 
 
 AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30383)]
+
+**$S^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM forTime Series Forecasting** 
+
+*Zijie Pan, Yushan Jiang, Sahil Garg, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song* 
+
+ICML 2024. [[Paper](https://arxiv.org/abs/2403.05798)] | [[Codes](https://github.com/panzijie825/S2IP-LLM)]
 
 
 ## Graph Neural Network-based Models
