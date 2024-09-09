@@ -159,8 +159,13 @@ KDD 2021. [[Paper](https://arxiv.org/abs/2106.12950)] | [[Codes](https://github.
 
 *Yitong Duan, Lei Wang, Qizhong Zhang, Jian Li*
 
-AAAI'22. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369)] | [[Codes](https://github.com/harrishe1999/FactorVAE)]
+AAAI 2022. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369)] | [[Codes](https://github.com/harrishe1999/FactorVAE)]
 
+**GENERATIVE LEARNING FOR FINANCIAL TIME SERIES WITH IRREGULAR AND SCALE-INVARIANT PATTERNS**
+
+*Hongbin Huang, Minghua Chen, and Xiao Qiao*
+
+ICLR 2024. [[Paper](https://openreview.net/forum?id=CdjnzWsQax)]
 
 ## Classical Time Series Models
 
