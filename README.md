@@ -62,6 +62,18 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2402.02592)] | [[Codes](https://github
 
 WWW 2024. [[Paper](https://arxiv.org/abs/2402.03659)] | [[Codes](https://github.com/koa-fin/sep)]
 
+**TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING** 
+
+*Defu Cao, Furong Jia, Sercan O. Arık, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu* 
+
+ICLR 2024. [[Paper](https://openreview.net/forum?id=YH5w12OUuU)] | [[Codes](https://github.com/DC-research/TEMPO)]
+
+**GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting** 
+
+*Furong Jia, Kevin Wang, Yixiang Zheng, Defu Cao, Yan Liu* 
+
+AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30383)]
+
 
 ## Graph Neural Network-based Models
 
