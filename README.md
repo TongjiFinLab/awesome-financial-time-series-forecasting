@@ -135,6 +135,19 @@ ICDE 2023. [[Paper](https://ieeexplore.ieee.org/document/10184655)] | [[Codes](h
 
 Pattern Recognition 2023. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004570)] | [[Codes](https://github.com/lixiaojieff/HGTAN)]
 
+**Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction**
+
+*Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
+
+CIKM 2022. [[Paper](https://arxiv.org/abs/2305.08740)] | [[Codes](https://github.com/TongjiFinLab/THGNN)]
+
+**Financial time series forecasting with multi-modality graph neural network**
+
+*Dawei Cheng, Fangzhou Yang, Sheng Xiang, Jin Liu*
+
+Pattern Recognition 2022. [[Paper](https://www.sciencedirect.com/science/article/pii/S003132032100399X)] | [[Codes](https://github.com/finint/MAGNN)]
+
+
 **Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction**
 
 *Heyuan Wang, Shun Li, Tengjiao Wang, Jiayi Zheng*
@@ -147,7 +160,11 @@ IJCAI 2021. [[Paper](https://www.ijcai.org/proceedings/2021/508)] | [[Codes](htt
 
 WWW 2021. [[Paper](https://arxiv.org/abs/2102.07372)]
 
+**Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments**
 
+*Dawei Cheng, Fangzhou Yang, Xiaoyang Wang, Ying Zhang, Liqing Zhang*
+
+SIGIR 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401427)]
 ## Reinforcement Learning-based Models
 
 **Asymmetric Graph-Based Deep Reinforcement Learning for Portfolio Optimization**
@@ -161,6 +178,18 @@ ECML PKDD 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-703
 *Yuxuan Bian, Haoyu Sun, Yang Lei, Peng Zhu, Dawei Cheng*
 
 DASFAA 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_29)]
+
+**Efficient Continuous Space Policy Optimization for High-frequency Trading**
+
+*Li Han, Nan Ding, Guoxuan Wang, Dawei Cheng, Yuqi Liang*
+
+KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599813)]
+
+**Optimal Action Space Search: An Effective Deep Reinforcement Learning Method for Algorithmic Trading**
+
+*Zhongjie Duan, Cen Chen, Dawei Cheng, Yuqi Liang, Weining Qian*
+
+CIKM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557412)] | [[Codes](https://github.com/ECNU-CILAB/OASS)]
 
 ## Transformer-based Models
 
@@ -181,6 +210,12 @@ AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28770)] | [
 *Zelin Ying, Dawei Cheng, Cen Chen, Xiang Li, Peng Zhu, Yifeng Luo, Yuqi Liang*
 
 Neurocomputing 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223011566)]
+
+**Multi-scale Time Based Stock Appreciation Ranking Prediction via Price Co-movement Discrimination**
+
+*Ruyao Xu, Dawei Cheng, Cen Chen, Siqiang Luo, Yifeng Luo, Weining Qian*
+
+DASFAA 2022. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_39)] | [[Codes](https://github.com/ECNU-CILAB/MPS)]
 
 **Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport**
 
