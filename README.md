@@ -3,7 +3,7 @@
 # Awesome Financial Time Series Forecasting Papers and Codes
 
 
-+ **Update**: This repository is actively updated.  `2024/9/9`
++ **Update**: This repository is actively updated.  `2024/9/11`
 + **Collection**: We've compiled a comprehensive list of awesome financial time series forecasting papers and codes.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
@@ -81,9 +81,7 @@ Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.16964)]
 
 **TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS**
 
-Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.16964)]
-
-*Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen*
+*Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, et.al*
 
 ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728v1)] | [[Codes](https://github.com/KimMeen/Time-LLM)]
 
@@ -221,6 +219,12 @@ KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599813)]
 *Zhongjie Duan, Cen Chen, Dawei Cheng, Yuqi Liang, Weining Qian*
 
 CIKM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557412)] | [[Codes](https://github.com/ECNU-CILAB/OASS)]
+
+**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**
+
+*Chuqiao Zong, Chaojie Wang, Molei Qin, Lei Feng, Xinrun Wang, Bo An*
+
+KDD 2024. [[Paper](https://arxiv.org/abs/2406.14537)] | [[Codes](https://github.com/ZONG0004/MacroHFT)]
 
 
 ## Transformer-based Models
