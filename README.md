@@ -220,6 +220,12 @@ KDD 2023. [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599813)]
 
 CIKM 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557412)] | [[Codes](https://github.com/ECNU-CILAB/OASS)]
 
+**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**
+
+*Chuqiao Zong, Chaojie Wang, Molei Qin, Lei Feng, Xinrun Wang, Bo An*
+
+KDD 2024. [[Paper](https://arxiv.org/abs/2406.14537)] | [[Codes](https://github.com/ZONG0004/MacroHFT)]
+
 
 ## Transformer-based Models
 
