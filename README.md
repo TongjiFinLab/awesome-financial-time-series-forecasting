@@ -3,7 +3,7 @@
 # Awesome Financial Time Series Forecasting Papers and Codes
 
 
-+ **Update**: This repository is actively updated.  `2024/9/11`
++ **Update**: This repository is actively updated.  `2024/9/24`
 + **Collection**: We've compiled a comprehensive list of awesome financial time series forecasting papers and codes.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
@@ -87,6 +87,12 @@ ICLR 2024. [[Paper](https://arxiv.org/abs/2310.01728v1)] | [[Codes](https://gith
 
 
 ## LLM-based Financial Models
+
+**A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**
+
+*Zhang, Wentao and Zhao, Lingxuan and Xia, Haochong and Sun, Shuo and Sun, Jiaze and Qin, Molei and Li, Xinyi and Zhao, Yuqing and Zhao, Yilei and Cai, Xinyu and Zheng, Longtao and Wang, Xinrun and An, Bo*
+
+KDD 2024. [[Paper](https://arxiv.org/abs/2402.18485)]
 
 **Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**
 
@@ -196,6 +202,16 @@ SIGIR 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401427)]
 
 ## Reinforcement Learning-based Models
 
+**Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools**
+
+WWW 2024. [[Paper](https://arxiv.org/pdf/2311.10801.pdf)] | [[Code](https://github.com/DVampire/EarnMore)]
+
+**FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition**
+
+*Jeon, Jihyeong and Park, Jiwon and Park, Chanhee and Kang, U*
+
+KDD 2024. [[Paper](https://dl.acm.org/doi/10.1145/3637528.3671668)]
+
 **Asymmetric Graph-Based Deep Reinforcement Learning for Portfolio Optimization**
 
 *Haoyu Sun, Xin Liu, Yuxuan Bian, Peng Zhu, Dawei Cheng, Yuqi Liang*
@@ -258,6 +274,12 @@ DASFAA 2022. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-
 *Hengxu Lin, Dong Zhou, Weiqing Liu, Jiang Bian*
 
 KDD 2021. [[Paper](https://arxiv.org/abs/2106.12950)] | [[Codes](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA)]
+
+**Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts**
+
+*Yoo, Jaemin and Soun, Yejun and Park, Yong-chan and Kang, U*
+
+KDD 2021. [[Paper](https://datalab.snu.ac.kr/~ukang/papers/dtmlKDD21.pdf)] | [[Codes](https://github.com/simonjisu/DTML-pytorch)]
 
 
 ## Generative Methods based Models
